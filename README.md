@@ -10,7 +10,7 @@
 🎯 Desenvolver estratégias para aprender e desenvolver habilidades de forma independente <br>
    
 ## Ferramentas utilizadas: <br>
-⚙️Google Sheets
+![Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 
 ## Relatório de Análise: <br>
 📈 <a href="https://docs.google.com/spreadsheets/d/18Mz6EnlOcX9wgjZmxvYyXZtgOg3EWn_IRkD6BbRFAWI/edit?usp=sharing">Relatório Sheets</a> 
@@ -18,7 +18,7 @@
 ## Vìdeo de Apresentação dos Resultados: <br>
 📹 <a href="https://www.loom.com/share/260b1c897b2b43a2a8327386bf373483">Vídeo</a> <br>
 
-## Objetivo:
+## Objetivo da Análise:
 🎯 Calcular o excesso de mortes em tempos de pandemia, para poder compará-los com os números oficiais informados pelos 5 países da América Latina com o objetivo de descobrir se o número de mortes por COVID é semelhante aos seus cálculos.
 
 ## Etapas: <br>
@@ -34,14 +34,24 @@
 ---> Cálculo do excesso de mortes por COVID por 100.000 habitantes <br>
 ---> Cálculo do excesso de mortes acumuladas por COVID por 100.000 habitantes 
 
-## Conclusões: <br>
+## Entregas e Conclusões: <br>
+
+<img src="https://github.com/sthefcruz18/excesso-de-mortes-por-COVID19_IBM-LABORATORIA_P1/blob/6f22a396e2f43823986d7d5821130e9d5e49e96e/visaoGeral.png"/><br>
+
+<img src="https://github.com/sthefcruz18/excesso-de-mortes-por-COVID19_IBM-LABORATORIA_P1/blob/6f22a396e2f43823986d7d5821130e9d5e49e96e/comparacaoMortesMortesAcumul.png" /><br>
+
 📝 **1. Considerando os números para cada 100.000 habitantes em que país existe uma maior diferença entre as mortes oficiais relatadas pela COVID e as mortes estimadas em excesso?**	R. _Mexico_ <br><br>
 📝 **2. Considerando os números para cada 100.000 habitantes em que país existe uma menor diferença entre as mortes oficiais relatadas pela COVID e as mortes estimadas em excesso?**	R. _Chile_ <br><br>
 📝**3. Considerando os números para cada 100.000 habitantes qual é o país com o maior número de mortes em excesso?** R. _Peru_ <br>
 
+<img src="https://github.com/sthefcruz18/excesso-de-mortes-por-COVID19_IBM-LABORATORIA_P1/blob/fb32baba77f9bea3641ab9239443fa6529a38245/tabelaComparativa.png"/><br>
 
+<img src="https://github.com/sthefcruz18/excesso-de-mortes-por-COVID19_IBM-LABORATORIA_P1/blob/6f22a396e2f43823986d7d5821130e9d5e49e96e/mortes_ao_longo_tempo.png"/><br>
+          
 ## Dataset:
 💻 Os dados são públicos e fictícios. <br>
 💻 Podem ser escontrados <a href="https://docs.google.com/spreadsheets/d/1qs64yg3caddAEvkwbZDeEmZNDwba-IIvR-KuUQhuC1k/edit?usp=sharing">clicando aqui</a> <br>
+
+<img src="https://github.com/sthefcruz18/excesso-de-mortes-por-COVID19_IBM-LABORATORIA_P1/blob/6f22a396e2f43823986d7d5821130e9d5e49e96e/DataSet.png" /> 
 
 
